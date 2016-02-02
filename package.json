@@ -1,0 +1,22 @@
+{
+  "name": "bunkr-common",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impomezia/bunkr-common.git"
+  },
+  "author": "Alexander Sedov <imp@schat.me>",
+  "license": "ICS",
+  "bugs": {
+    "url": "https://github.com/impomezia/bunkr-common/issues"
+  },
+  "homepage": "https://github.com/impomezia/bunkr-common#readme",
+  "dependencies": {
+    "bs58": "3.0.0",
+    "crc": "3.4.0",
+    "node-int64": "0.4.0",
+    "node-uuid": "1.4.7"
+  }
+}
